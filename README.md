@@ -1,16 +1,20 @@
-## Hi there 👋
+# Pedro Ayan 
 
-<!--
-**PedroAyan/PedroAyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Estudante de Ciência da Computação** no IESB e **Tecnólogo em Análise e Desenvolvimento de Sistemas** (UniCesumar).
+ Focado em **Desenvolvimento Back-end**, **Automação de Processos** e **Engenharia de Software**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tecnologias e Ferramentas
+
+- **Linguagens:** Python, C#, C++, Java, JavaScript / Node.js
+- **Back-end & Web:** APIs RESTful, JSON, Estruturas de Dados, Arquitetura de Software
+- **Bancos de Dados:** PostgreSQL, SQL, Oracle Database, Apache Cassandra
+- **DevOps & Ferramentas:** Docker, Git & GitHub, Scrum
+
+---
+
+###  Links
+
+- **LinkedIn:** https://www.linkedin.com/in/pedro-ayan-aab81b369/
+- **E-mail:** ayan.pedro.c@gmail.com
