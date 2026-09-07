@@ -7,7 +7,7 @@
 
 ###  Tecnologias e Ferramentas
 
-- **Linguagens:** Python, C#, C++, Java, JavaScript / Node.js
+- **Linguagens:** Python, C#, C++, Java, JavaScript / Node.js, HTML, C, TypeScript
 - **Back-end & Web:** APIs RESTful, JSON, Estruturas de Dados, Arquitetura de Software
 - **Bancos de Dados:** PostgreSQL, SQL, Oracle Database, Apache Cassandra
 - **DevOps & Ferramentas:** Docker, Git & GitHub, Scrum
